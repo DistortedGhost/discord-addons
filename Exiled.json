@@ -10,7 +10,7 @@
    ],
    "theme_color_map": {
       "KEYBOARD": [
-         "#000000",
+         "#14121f",
          "#FFFFFF"
       ],
       "HEADER_PRIMARY": [
@@ -127,10 +127,6 @@
       ],
       "CHANNELS_DEFAULT": [
          "#B6B6B6",
-         "#FFFFFF"
-      ]
-      "KEYBOARD": [
-         "#14121f",
          "#FFFFFF"
       ]
    },
